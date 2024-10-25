@@ -22,9 +22,16 @@
    ```bash
    https://github.com/Shruti1609/Rule-Engine.git
 
-3. Run the Flask application:
-   ```bash
-   python ui.py
+3. Run the Flask application: <br />
+   Run the Backend
+   
+       
+       python main.py
+   
+   Enter this command to run the rule engine
+  
+      ```bash 
+      python ui.py
 
 ## Design Choices
  - Flask: Selected for its ease of use and flexibility, making it perfect for rapid web application development.
@@ -36,6 +43,9 @@
 ## Previews
 
 ![rlg_ss](https://github.com/user-attachments/assets/4923a27c-f7e1-4a68-9444-1444b68a4f42)
+
+
+
 
 
 
