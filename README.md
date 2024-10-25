@@ -28,7 +28,7 @@
        
        python main.py
    
-   Enter this command to run the rule engine
+   Enter this command on a new terminal with the previous instance running to run the rule engine
   
       ```bash 
       python ui.py
@@ -42,7 +42,7 @@
 
 ## Previews
 
-![rlg_ss](https://github.com/user-attachments/assets/4923a27c-f7e1-4a68-9444-1444b68a4f42)
+![Rlg_ss (2)](https://github.com/user-attachments/assets/855933ca-914d-4227-a3c6-473846505ea2)
 
 
 
