@@ -16,26 +16,24 @@
 
 1. Install the required dependencies:
    ```bash
-   pip install flask sqlalchemy
+   pip install flask sqlalchemy requests
    
 2. Clone the Repository
    ```bash
-   
-   
-   
+   https://github.com/Shruti1609/Rule-Engine.git
 
-Run the Flask application:
-```bash
-python ui.py
-
-python app.py
+3. Run the Flask application:
+   ```bash
+   python ui.py
 
 ## Design Choices
-Flask: Chosen for its simplicity and flexibility, making it ideal for quick web application development.
-SQLite: Used as the database for its lightweight nature and ease of setup.
-Docker: Utilized for containerization, ensuring a consistent development environment across different machines.
-Future Enhancements
-Attribute Validation: Implement validation for rule attributes to enhance robustness.
-User-Defined Functions: Allow users to define custom functions for more complex rule processing.
+ - Flask: Selected for its ease of use and flexibility, making it perfect for rapid web application development.
+ - SQLite: Chosen as the database for its lightweight design and straightforward setup, ideal for smaller applications.
+ - RESTful API: Used to maintain a clear separation of responsibilities and streamline communication between the frontend and backend.
+ - JSON: Adopted for data exchange due to its lightweight nature and simplicity in web applications.
+ - Error Handling: Integrated to offer helpful feedback to users, enhancing the overall experience.
+
+## Previews
+
 
 
